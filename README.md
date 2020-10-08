@@ -1,2 +1,2 @@
-# redshiftgui
-A GUI for the Linux program RedShift.
+# LimeyScripts
+Scripts made for the Linux Shell that wil help you in daily use
